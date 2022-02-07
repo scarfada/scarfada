@@ -1,4 +1,4 @@
-## Oiii eu sou a Scarlaty Bonfim, Desenvolvedora Web!
+## Hey I'm Scarlaty , Web developer!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scarfada&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
